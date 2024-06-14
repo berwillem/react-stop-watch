@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.stopWatch {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  margin: 20px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
